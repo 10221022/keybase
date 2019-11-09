@@ -1,0 +1,78 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am CrystallMitchell on github.
+  * I am mitchcryv (https://keybase.io/mitchcryv) on keybase.
+  * I have a public key whose fingerprint is 5731 3480 691B 1CC0 C881  CA5E C96C 3F81 0FF4 CE31
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010137e40238c8cf9308dd1c26a48e8cd401a1aced0b8cde14205c24389459c1df880a",
+      "fingerprint": "57313480691b1cc0c881ca5ec96c3f810ff4ce31",
+      "host": "keybase.io",
+      "key_id": "c96c3f810ff4ce31",
+      "kid": "010137e40238c8cf9308dd1c26a48e8cd401a1aced0b8cde14205c24389459c1df880a",
+      "uid": "32a9919aa5534c6c882abddcc9d8a519",
+      "username": "mitchcryv"
+    },
+    "service": {
+      "name": "github",
+      "username": "CrystallMitchell"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1573315559,
+  "expire_in": 157680000,
+  "prev": "03732371a1ba9ac14fef1ab97c929365af7156221555af076a8399486a67a0c8",
+  "seqno": 3,
+  "tag": "signature"
+}
+```
+
+with the key [5731 3480 691B 1CC0 C881  CA5E C96C 3F81 0FF4 CE31](https://keybase.io/mitchcryv), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJdSBVBGL2alV0wMsseeii2oIeusrOzPzO3hMJ+oSITKk27zc7OXlev
+e697V/NmQlAUVtA/GZFkSC+iFGkg9qCWheSDZGEEieBPZGGUBEpEzYo9BD02L8P3
+fecczpz5nqUt8PmTArOHx9fdTbuU9LK7vtJX/Hz0Q42gR42EEKwRytjcxSIGi7uh
+MssQgoIIRAA1JosSRBRRE0MRGQagkkpkxBA1ZBEQQCgzRJ1XDMiSqFBJhgjLCqbA
+MBESiRAQTMsOMyfmWLbLZRUNAigjUcVAB5SKFCFAicIoVik0ERBNU6YMAk4sicY9
+BjenkzjLtqK8x4vQnL1/4P+z78o5OSgRjAEmRFGgTFVuVyK6YVCKDUQUgD1gnDk2
+KWccXW65tIQ6iSqhNiDwdpVFmZfs/DhsuSWV+t+UXCcRd0kkstejskjEY7qJmDc6
+zvTQvEhIt2yDB8m5VcyJW1FbCAKOpK7lqQAeKwSKouCAwKpjlsNClj3XVpHIT0CI
+OazKSwdqUIIaT0AnmFAgm8wERMcaxRKGqkJMDSiqJHlaxBQ1lSCIsYxUomqEf5bg
+PavCjgpByG2SMJeMW2GbuJUOE2p7uopSfEl+36KFyd6C+fxLlv1Zu6zqVN/N+51f
+LxsDu30/g/GmqeId34zGniSpqF76ktU7s7URlDaOnF46mVrY1jval3+mbvmnhvDg
+ptNPt51LXvr6Qddqf/bia+8WPhF+yv0D20/WXd2XPvGodaJQHWkgdrMm1+XsbdnT
+bX52v5+ftW6tSL092PrmY73UOVTakd+eac5cly+F0bGm0ezq/rGWy9cubpmYuXMj
+x3IfXlgt7Z/cVljcfHLk6ubE5iP3doXy2k/t3gBzH/uX7cw/HrrSs/LV+7NdJzLG
+VslrC9bkdUy3HPzVDjsPNLCNLyZpBsvcFU1Jd/Oaao7+GKpP3yT2o4rYmeH141MX
+Z9/2LSr6dWhyuqC7bfg3+UlERA==
+=tyoC
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mitchcryv
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id mitchcryv
